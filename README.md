@@ -1,6 +1,6 @@
 # Claude Harness Slim Template
 
-Claude Code용 내부 프로젝트 템플릿.
+A low-overhead Claude Code template for internal projects with planning, TDD, review, and reusable command workflows.
 
 목표는 단순하다.
 - 큰 작업은 먼저 계획한다.
